@@ -1,1 +1,1 @@
-"# odev-9" 
+deneme yazısı hafta 9
